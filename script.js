@@ -6,7 +6,6 @@ function play () {
 
 var userInput = prompt("Enter 'R' 'P' or 'S'");
 var input = ["R", "P", "S"];
-var computerInput = ["R", "P", "S"];
 var computerInput = input["Math.floor(Math.random()* input.length"];
 console.log(userInput);
 
